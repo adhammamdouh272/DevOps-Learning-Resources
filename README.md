@@ -1,5 +1,5 @@
 # DevOps-Learning-Resources
-A collection of free resources to learn DevOps methodology and tools that were very helpful in my career.
+A collection of resources to learn DevOps methodology and tools that were very helpful in my career.
 # 🐧Linux Administration
 ## ▶️ Courses
 - Red Hat System Administration I on [Mahara-Tech](https://maharatech.gov.eg/course/view.php?id=2115) (Highly comprehensive course for RHCSA Certificate)
